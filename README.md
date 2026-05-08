@@ -61,6 +61,10 @@ Repository: `https://github.com/milanbourbeck/codex-plugin-design-director.git`
 - `product-storytelling-ux` is now `$story`
 - If Codex does not show updates immediately, restart or reload Codex and reinstall or refresh the marketplace.
 
+## Using with AGENTS.md
+
+This repository includes an `AGENTS.md` file for plugin maintenance rules. Skills remain the detailed workflow source; `AGENTS.md` defines repository priorities, validation expectations, and constraints for future Codex work.
+
 ## Maintenance
 
 - Keep the plugin `name` field as the canonical handle.
