@@ -1,0 +1,40 @@
+{
+  "name": "design-director",
+  "version": "1.0.0",
+  "description": "Creates strong visual direction, design briefs, design-system guidance, UI composition principles, product storytelling, and iterative polish workflows before implementation.",
+  "author": {
+    "name": "Milan Bourbeck",
+    "url": "https://github.com/milanbourbeck"
+  },
+  "homepage": "https://github.com/milanbourbeck/codex-plugin-design-director",
+  "repository": "https://github.com/milanbourbeck/codex-plugin-design-director",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "plugin",
+    "design-direction",
+    "ui",
+    "ux",
+    "frontend",
+    "visual-polish"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design Director",
+    "shortDescription": "Visual direction, design-system thinking, UI composition, and premium polish for Codex.",
+    "longDescription": "A focused Codex plugin for frontend design direction: design briefs, visual direction, DESIGN.md source-of-truth files, composition strategy, product storytelling, and final visual polish without installing dependencies.",
+    "developerName": "Milan Bourbeck",
+    "category": "Design",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/milanbourbeck/codex-plugin-design-director",
+    "brandColor": "#111827",
+    "defaultPrompt": [
+      "Create a strong visual direction first.",
+      "Generate a DESIGN.md for this UI.",
+      "Run a premium visual polish pass."
+    ]
+  }
+}
