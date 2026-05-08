@@ -1,11 +1,15 @@
 ---
-name: premium-ui-composition
-description: Use when the user wants Codex to design or improve actual page composition: hero, sections, cards, CTAs, testimonials, pricing, FAQ, dashboard layout, visual hierarchy, and responsive rhythm.
+name: compose
+description: Improve page composition, hierarchy, sections, CTAs, and responsive rhythm.
 ---
 
-# premium-ui-composition
+# compose
 
 Use when the user wants Codex to design or improve actual page composition: hero, sections, cards, CTAs, testimonials, pricing, FAQ, dashboard layout, visual hierarchy, and responsive rhythm.
+
+## Handle Migration
+
+Canonical skill handle: `$compose`. Legacy internal name: `premium-ui-composition -> compose`.
 
 ## Operating Rules
 

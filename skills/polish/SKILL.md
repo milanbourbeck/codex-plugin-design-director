@@ -1,11 +1,15 @@
 ---
-name: product-storytelling-ux
-description: Use when the user wants better conversion, clearer messaging, stronger landing page narrative, better onboarding flow, or more persuasive product presentation.
+name: polish
+description: Remove generic AI-looking UI and apply a premium visual polish pass.
 ---
 
-# product-storytelling-ux
+# polish
 
-Use when the user wants better conversion, clearer messaging, stronger landing page narrative, better onboarding flow, or more persuasive product presentation.
+Use when the user wants a final premium polish pass to remove generic AI-looking UI, improve spacing, typography, color balance, microinteractions, responsiveness, and visual consistency.
+
+## Handle Migration
+
+Canonical skill handle: `$polish`. Legacy internal name: `visual-polish-pass -> polish`.
 
 ## Operating Rules
 
@@ -23,11 +27,9 @@ Use when the user wants better conversion, clearer messaging, stronger landing p
 
 ## Workflow
 
-1. Identify user intent, pain, context, readiness, and likely objections.
-2. Sharpen above-the-fold messaging, value proposition, and primary CTA text.
-3. Place trust signals where they answer skepticism, not as decoration.
-4. Make social proof specific and credible.
-5. Improve the feature-to-benefit ratio.
-6. Add objections, FAQ, or onboarding steps when they reduce friction.
-7. Prioritize UX story before visual decoration.
-8. Summarize narrative changes, conversion risks, and recommended implementation steps.
+1. Review the UI for generic AI patterns: interchangeable gradient heroes, too many rounded cards, weak typography, dull icon grids, equal sections, artificial testimonials, excessive shadows, and poor mobile hierarchy.
+2. Improve typography, spacing, CTA contrast, section differentiation, and component consistency.
+3. Use subtle microinteractions only when they clarify affordance, feedback, or state.
+4. Do not add unnecessary animation. Respect `prefers-reduced-motion`.
+5. Keep performance and accessibility intact.
+6. Provide a visual review summary covering what felt generic, what changed, risks, and remaining opportunities.

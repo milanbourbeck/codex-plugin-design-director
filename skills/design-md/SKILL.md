@@ -1,11 +1,15 @@
 ---
-name: generate-design-system-md
-description: Use when the user wants a DESIGN.md or design system source of truth for Codex-driven frontend work. Creates tokens, components, layout rules, motion rules, accessibility rules, and UI decision rules.
+name: design-md
+description: Create or update a DESIGN.md source of truth for Codex frontend work.
 ---
 
-# generate-design-system-md
+# design-md
 
 Use when the user wants a DESIGN.md or design system source of truth for Codex-driven frontend work. Creates tokens, components, layout rules, motion rules, accessibility rules, and UI decision rules.
+
+## Handle Migration
+
+Canonical skill handle: `$design-md`. Legacy internal name: `generate-design-system-md -> design-md`.
 
 ## Operating Rules
 

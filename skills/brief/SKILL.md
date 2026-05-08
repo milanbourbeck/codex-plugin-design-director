@@ -1,11 +1,15 @@
 ---
-name: creative-direction-brief
-description: Use when the user wants a strong visual direction before building or redesigning a frontend. Use for landing pages, SaaS products, dashboards, portfolios, one-pagers, and product websites. Produces a design brief, style direction, UX intent, and implementation guidance before code changes.
+name: brief
+description: Design brief and visual direction before frontend implementation.
 ---
 
-# creative-direction-brief
+# brief
 
 Use when the user wants a strong visual direction before building or redesigning a frontend. Use for landing pages, SaaS products, dashboards, portfolios, one-pagers, and product websites. Produces a design brief, style direction, UX intent, and implementation guidance before code changes.
+
+## Handle Migration
+
+Canonical skill handle: `$brief`. Legacy internal name: `creative-direction-brief -> brief`.
 
 ## Operating Rules
 
